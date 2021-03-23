@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\WinformSecurity\bin\Debug\WinformSecurity.exe.config
+C:\Users\ACER\source\repos\WinformSecurity\bin\Debug\WinformSecurity.exe
+C:\Users\ACER\source\repos\WinformSecurity\bin\Debug\WinformSecurity.pdb
+C:\Users\ACER\source\repos\WinformSecurity\obj\Debug\WinformSecurity.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\WinformSecurity\obj\Debug\WinformSecurity.Form1.resources
+C:\Users\ACER\source\repos\WinformSecurity\obj\Debug\WinformSecurity.Properties.Resources.resources
+C:\Users\ACER\source\repos\WinformSecurity\obj\Debug\WinformSecurity.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\WinformSecurity\obj\Debug\WinformSecurity.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\WinformSecurity\obj\Debug\WinformSecurity.exe
+C:\Users\ACER\source\repos\WinformSecurity\obj\Debug\WinformSecurity.pdb
